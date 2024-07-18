@@ -3,6 +3,18 @@
         {
             "title":"The Truth About AI's Impact on Software Development Jobs",
             "content":"AI is transforming software development by acting as a force multiplier rather than a job replacer. Tools like GitHub Copilot and ChatGPT handle routine coding tasks, freeing developers to focus on complex challenges and high-level problem-solving. Historical parallels from accounting, architecture, and photography show how"
+        },
+        {
+            "title":"Top 6 React Hook Mistakes Beginners Make",
+            "content":"Learning React involves not just grasping its basics but also writing clean, efficient code. Common mistakes include using state unnecessarily, not using the function version of useState, misunderstanding state updates, and unnecessary useEffect dependencies."
+        },
+        {
+            "title":"5 Excellent Open Source Headless CMS for JS",
+            "content":"AI is transforming software development by acting as a force multiplier rather than a job replacer. Tools like GitHub Copilot and ChatGPT handle routine coding tasks, freeing developers to focus on complex challenges and high-level problem-solving. Historical parallels from accounting, architecture, and photography show how"
+        },
+        {
+            "title":"Using a Git Commit Template",
+            "content":"AI is transforming software development by acting as a force multiplier rather than a job replacer. Tools like GitHub Copilot and ChatGPT handle routine coding tasks, freeing developers to focus on complex challenges and high-level problem-solving. Historical parallels from accounting, architecture, and photography show how"
         }
     ]
 }
